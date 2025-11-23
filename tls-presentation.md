@@ -905,20 +905,6 @@ example.com. CAA 0 iodef "mailto:security@example.com"
 
 ---
 
-# Ideal Configuration Checklist
-
-- ✅ TLS 1.3 and/or TLS 1.2 only
-- ✅ Strong cipher suites (AEAD only)
-- ✅ Certificate from trusted CA
-- ✅ Complete certificate chain
-- ✅ Certificate not expired
-- ✅ HSTS enabled
-- ✅ OCSP stapling working
-- ✅ No known vulnerabilities
-- ✅ A or A+ grade on SSL Labs
-- ✅ Forward secrecy enabled
-
----
 
 # Resources: Official Standards
 
